@@ -1,0 +1,105 @@
+[Global]
+CurrentProject=hw2svr.vpj
+[ProjectDates]
+hw2svr.vpj=20130510040303000
+hw2client/hw2client.vpj=20130424043058000
+../hw2client/hw2client.vpj=20130510040905000
+../hw2replica/hw2replica.vpj=20130510040234000
+[ActiveConfig]
+hw2svr.vpj=,Debug
+hw2client/hw2client.vpj=Debug
+../hw2client/hw2client.vpj=,Debug
+../hw2replica/hw2replica.vpj=,Debug
+[TreeExpansion2]
++@ ../hw2client/hw2client.vpj
++@ ../hw2replica/hw2replica.vpj
++@ hw2svr.vpj
+scroll:0
+[State]
+SCREEN: 1366 768 0 31 1367 674 0 0 M 0 0 0 0 1210 327 0
+CWD: ../hw2svr
+BUFFER: BN="../thrift/services.thrift"
+BI: MA=1 74 1  TABS=1 9  WWS=1 IWT=1 ST=0 IN=1 BW=0 US=32000 RO=0 SE=1 SN=0 BIN=0 MN=Plain Text	HM=0 MF=33554432 TL=0 MLL=0 ASE=0 LNL=1 LCF=0 CAPS=0 E=0 ESBU2=1 CL="" SC="" SCE= SCU=
+VIEW: LN=.306 CL=8 LE=0 CX=9 CY=9 WI=5 BI=17 HT=0 HN=0 HF=0 HC=4
+BUFFER: BN="../db/schema.h"
+BI: MA=1 74 1  TABS=1 9  WWS=1 IWT=0 ST=0 IN=2 BW=0 US=32000 RO=0 SE=1 SN=0 BIN=0 MN=C/C++	HM=0 MF=33554432 TL=0 MLL=0 ASE=0 LNL=1 LCF=0 CAPS=0 E=0 ESBU2=1 CL="" SC="" SCE= SCU=
+VIEW: LN=.583 CL=45 LE=0 CX=46 CY=18 WI=5 BI=18 HT=0 HN=0 HF=0 HC=4
+BUFFER: BN="../thrift-0.9.0/lib/cpp/src/thrift/transport/TSocket.cpp"
+BI: MA=1 74 1  TABS=1 9  WWS=1 IWT=0 ST=0 IN=2 BW=0 US=32000 RO=0 SE=1 SN=0 BIN=0 MN=C/C++	HM=0 MF=33554432 TL=0 MLL=0 ASE=0 LNL=1 LCF=0 CAPS=0 E=0 ESBU2=1 CL="" SC="" SCE= SCU=
+VIEW: LN=.10160 CL=1 LE=0 CX=2 CY=8 WI=5 BI=20 HT=0 HN=0 HF=0 HC=4
+BUFFER: BN="../db/db.h"
+BI: MA=1 74 1  TABS=1 9  WWS=1 IWT=0 ST=0 IN=2 BW=0 US=32000 RO=0 SE=1 SN=0 BIN=0 MN=C/C++	HM=0 MF=96 TL=0 MLL=0 ASE=0 LNL=1 LCF=0 CAPS=0 E=0 ESBU2=1 CL="" SC="" SCE= SCU=
+VIEW: LN=.61 CL=15 LE=0 CX=16 CY=3 WI=5 BI=23 HT=0 HN=0 HF=0 HC=4
+BUFFER: BN="../hw2client/hw2client.cpp"
+BI: MA=1 74 1  TABS=1 9  WWS=1 IWT=0 ST=0 IN=2 BW=0 US=32000 RO=0 SE=1 SN=0 BIN=0 MN=C/C++	HM=0 MF=33554432 TL=0 MLL=0 ASE=0 LNL=1 LCF=0 CAPS=0 E=0 ESBU2=1 CL="" SC="" SCE= SCU=
+VIEW: LN=.894 CL=1 LE=0 CX=2 CY=12 WI=5 BI=24 HT=0 HN=0 HF=0 HC=4
+BUFFER: BN="../hw2replica/hw2replica.cpp"
+BI: MA=1 74 1  TABS=1 9  WWS=1 IWT=0 ST=0 IN=2 BW=0 US=32000 RO=0 SE=1 SN=0 BIN=0 MN=C/C++	HM=0 MF=96 TL=0 MLL=0 ASE=0 LNL=1 LCF=0 CAPS=0 E=0 ESBU2=1 CL="" SC="" SCE= SCU=
+VIEW: LN=.5500 CL=45 LE=0 CX=46 CY=10 WI=5 BI=11 HT=0 HN=0 HF=0 HC=4
+BUFFER: BN="hw2svr.cpp"
+BI: MA=1 74 1  TABS=1 4  WWS=1 IWT=0 ST=0 IN=2 BW=0 US=32000 RO=0 SE=1 SN=0 BIN=0 MN=C/C++	HM=0 MF=52298336 TL=0 MLL=0 ASE=0 LNL=1 LCF=0 CAPS=0 E=0 ESBU2=1 CL="" SC="" SCE= SCU=
+VIEW: LN=.3672 CL=11 LE=0 CX=12 CY=3 WI=5 BI=22 HT=0 HN=0 HF=0 HC=4
+BUFFER: BN="../db/schema.cpp"
+BI: MA=1 74 1  TABS=1 9  WWS=1 IWT=0 ST=0 IN=2 BW=0 US=32000 RO=0 SE=1 SN=0 BIN=0 MN=C/C++	HM=0 MF=51511904 TL=0 MLL=0 ASE=0 LNL=1 LCF=0 CAPS=0 E=0 ESBU2=1 CL="" SC="" SCE= SCU=
+VIEW: LN=.2860 CL=51 LE=0 CX=52 CY=7 WI=5 BI=19 HT=0 HN=0 HF=0 HC=4
+BUFFER: BN="../db/db.cpp"
+BI: MA=1 74 1  TABS=1 9  WWS=1 IWT=0 ST=0 IN=2 BW=0 US=32000 RO=0 SE=1 SN=0 BIN=0 MN=C/C++	HM=0 MF=51380832 TL=0 MLL=0 ASE=0 LNL=1 LCF=0 CAPS=0 E=0 ESBU2=1 CL="" SC="" SCE= SCU=
+VIEW: LN=.432 CL=1 LE=0 CX=2 CY=8 WI=5 BI=21 HT=0 HN=0 HF=0 HC=4
+BUFFER: BN="/usr/include/c++/4.7.2/bits/stl_list.h"
+BI: MA=1 74 1  TABS=1 9  WWS=1 IWT=0 ST=0 IN=2 BW=0 US=32000 RO=1 SE=1 SN=0 BIN=0 MN=C/C++	HM=0 MF=50332256 TL=0 MLL=0 ASE=0 LNL=1 LCF=0 CAPS=0 E=0 ESBU2=1 CL="" SC="" SCE= SCU=
+VIEW: LN=.50043 CL=1 LE=0 CX=2 CY=11 WI=5 BI=51 HT=0 HN=0 HF=0 HC=4
+BUFFER: BN="../thrift/gen-cpp/Replica.h"
+BI: MA=1 74 1  TABS=1 9  WWS=1 IWT=0 ST=0 IN=2 BW=0 US=32000 RO=0 SE=1 SN=0 BIN=0 MN=C/C++	HM=0 MF=50332256 TL=0 MLL=0 ASE=0 LNL=1 LCF=0 CAPS=0 E=0 ESBU2=1 CL="" SC="" SCE= SCU=
+VIEW: LN=.14271 CL=3 LE=0 CX=4 CY=12 WI=5 BI=42 HT=0 HN=0 HF=0 HC=4
+WINDOW: 0 92 793 275 0 0 N  WF=0 WT=3 ",,,"
+BUFFER: BN="../thrift/services.thrift"
+VIEW: LN=.306 CL=8 LE=0 CX=9 CY=9 WI=158 BI=17 HT=0 HN=0 HF=0 HC=4
+WINDOW: 0 23 873 324 0 0 N  WF=0 WT=1 ",,,"
+BUFFER: BN="../db/schema.h"
+VIEW: LN=.583 CL=45 LE=0 CX=46 CY=18 WI=160 BI=18 HT=0 HN=0 HF=0 HC=4
+WINDOW: 0 0 743 182 0 0 N  WF=0 WT=7 ",,,"
+BUFFER: BN="../thrift-0.9.0/lib/cpp/src/thrift/transport/TSocket.cpp"
+VIEW: LN=.10160 CL=1 LE=0 CX=2 CY=8 WI=164 BI=20 HT=0 HN=0 HF=0 HC=4
+WINDOW: 0 46 873 324 0 0 N  WF=0 WT=9 ",,,"
+BUFFER: BN="../db/db.h"
+VIEW: LN=.61 CL=15 LE=0 CX=15 CY=3 WI=168 BI=23 HT=0 HN=0 HF=0 HC=4
+WINDOW: 0 23 873 304 0 0 N  WF=0 WT=2 ",,,"
+BUFFER: BN="../hw2client/hw2client.cpp"
+VIEW: LN=.894 CL=1 LE=0 CX=2 CY=12 WI=170 BI=24 HT=0 HN=0 HF=0 HC=4
+WINDOW: 0 115 1212 365 0 0 N  WF=0 WT=5 ",,,"
+BUFFER: BN="../hw2replica/hw2replica.cpp"
+VIEW: LN=.5500 CL=45 LE=0 CX=45 CY=10 WI=172 BI=11 HT=0 HN=0 HF=0 HC=4
+WINDOW: 0 0 936 268 0 0 N  WF=0 WT=10 ",,,"
+BUFFER: BN="../thrift/gen-cpp/Replica.h"
+VIEW: LN=.14271 CL=3 LE=0 CX=4 CY=12 WI=469 BI=42 HT=0 HN=0 HF=0 HC=4
+WINDOW: 0 46 743 240 0 0 N  WF=0 WT=12 ",,,"
+BUFFER: BN="/usr/include/c++/4.7.2/bits/stl_list.h"
+VIEW: LN=.50043 CL=1 LE=0 CX=2 CY=11 WI=657 BI=51 HT=0 HN=0 HF=0 HC=4
+WINDOW: 0 0 743 182 0 0 N  WF=0 WT=6 ",,,"
+BUFFER: BN="../db/db.cpp"
+VIEW: LN=.432 CL=1 LE=0 CX=1 CY=8 WI=166 BI=21 HT=0 HN=0 HF=0 HC=4
+WINDOW: 0 0 842 197 0 0 N  WF=0 WT=4 ",,,"
+BUFFER: BN="../db/schema.cpp"
+VIEW: LN=.2860 CL=51 LE=0 CX=52 CY=7 WI=162 BI=19 HT=0 HN=0 HF=0 HC=4
+WINDOW: 0 46 1211 328 0 0 M  WF=0 WT=8 ",,,"
+BUFFER: BN="hw2svr.cpp"
+VIEW: LN=.1692 CL=1 LE=0 CX=1 CY=11 WI=174 BI=22 HT=0 HN=0 HF=0 HC=4
+FILEHIST: 9
+../thrift-0.9.0/lib/cpp/src/thrift/transport/TSocket.cpp
+../thrift/gen-cpp/Master.h
+../hw2replica/hw2replica.cpp
+../thrift/gen-cpp/Replica.h
+/usr/include/boost/smart_ptr/shared_ptr.hpp
+/usr/include/c++/4.7.2/bits/stl_list.h
+../db/db.cpp
+../db/schema.cpp
+hw2svr.cpp
+TBCLASS: 0 0
+DEBUG: 3 0 0 0 3 0 gdb
+1set_sql0
+1prepare_set_sql0
+1sql0
+printf
+strcpy
+std::*
+DEBUG2: 0

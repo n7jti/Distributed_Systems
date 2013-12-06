@@ -1,0 +1,39 @@
+[Global]
+CurrentProject=SQLLite.vpj
+[ProjectDates]
+SQLLite.vpj=20130420190118000
+[ActiveConfig]
+SQLLite.vpj=,Debug
+[TreeExpansion2]
+-@ SQLLite.vpj
+  + Source Files
+  + Header Files
+  + Resource Files
+  + Bitmaps
+  - Other Files
+scroll:0
+[State]
+SCREEN: 1362 589 0 31 1367 674 0 0 M 0 0 0 0 993 315 0
+CWD: ../SQLLite
+BUFFER: BN="SQLLite.cpp"
+BI: MA=1 74 1  TABS=1 9  WWS=1 IWT=0 ST=0 IN=2 BW=0 US=32000 RO=0 SE=1 SN=0 BIN=0 MN=C/C++	HM=0 MF=50331744 TL=0 MLL=0 ASE=0 LNL=1 LCF=0 CAPS=0 E=0 ESBU2=1 CL="" SC="" SCE= SCU=
+VIEW: LN=.847 CL=1 LE=0 CX=2 CY=18 WI=5 BI=17 HT=0 HN=0 HF=0 HC=4
+WINDOW: 6 23 937 340 0 0 M  WF=0 WT=1 ",,,"
+BUFFER: BN="SQLLite.cpp"
+VIEW: LN=.845 CL=1 LE=0 CX=2 CY=16 WI=353 BI=17 HT=0 HN=0 HF=0 HC=4
+FILEHIST: 9
+/usr/include/boost/proto/transform/arg.hpp
+../../../hw5/stencil9.c
+/usr/include/rpcsvc/sm_inter.h
+../../../HW6/stencil9-mpi.c
+../../../CSEP524/hw7/sw-framework.chpl
+../../../CSEP524/hw7/sw-part2c.chpl
+../../HW1/ntpclient.py
+Makefile
+SQLLite.cpp
+TBCLASS: 0 0
+DEBUG: 0 0 0 0 3 0 gdb
+printf
+strcpy
+std::*
+DEBUG2: 0
